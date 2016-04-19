@@ -1,0 +1,4 @@
+# ignore *.pyc
+*.pyc
+# ignore __pycache__
+__pycache__
